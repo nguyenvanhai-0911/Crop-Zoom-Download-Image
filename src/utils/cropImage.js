@@ -83,3 +83,4 @@ export const generateDownload = async (imageSrc, crop) => {
      0.66
  );
 };
+
